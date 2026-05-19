@@ -1,0 +1,36 @@
+Array
+(
+    [course_code] => 
+    [course_name] => 
+    [division_name] => 
+    [academic_year] => 2025
+    [semester] => 1
+    [batch] => 
+    [total_credits] => 
+    [department] => 
+    [included_subjects] => 
+)
+Array
+(
+    [course_code] => 
+    [course_name] => 
+    [division_name] => 
+    [academic_year] => 2024
+    [semester] => 1
+    [batch] => 
+    [total_credits] => 
+    [department] => 
+    [included_subjects] => 
+)
+Array
+(
+    [course_code] => 
+    [course_name] => 
+    [division_name] => 
+    [academic_year] => 2025
+    [semester] => 2
+    [batch] => 03
+    [total_credits] => 
+    [department] => 
+    [included_subjects] => 
+)
