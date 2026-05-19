@@ -1,8 +1,8 @@
 # 🎓 Online Exam Apply & Management System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KUSHANcharuka/SLIATE-exam-apply?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/KUSHANcharuka/SLIATE-exam-apply?style=social)
-![GitHub forks](https://img.shields.io/github/forks/KUSHANcharuka/SLIATE-exam-apply?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Piyuhansani/SLIATE-exam-apply?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Piyuhansani/SLIATE-exam-apply?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Piyuhansani/SLIATE-exam-apply?style=social)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-purple)
 
@@ -126,7 +126,7 @@ SLIATE-exam-apply/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/KUSHANcharuka/SLIATE-exam-apply.git
+git clone https://github.com/Piyuhansani/SLIATE-exam-apply.git
 ```
 
 ### 2️⃣ Move to Server
@@ -186,7 +186,7 @@ Feel free to fork this repository and submit pull requests.
 
 For feedback, suggestions, or collaboration:
 
-* GitHub: [https://github.com/KUSHANcharuka](https://github.com/KUSHANcharuka)
+* GitHub: [https://github.com/Piyuhansani](https://github.com/Piyuhansani)
 
 ---
 
