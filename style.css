@@ -1,0 +1,234 @@
+body {
+    background-color:#ece000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.heading {
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.Academic-Details {
+    width: 80%;
+    background-color: #f0ff7f;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    width: 30%;
+}
+
+input, select {
+    border: 1px solid #ccc;
+    background: rgb(228, 227, 227);
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 4px;
+    width: calc(100% - 16px);
+}
+
+input:focus, select:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+}
+
+
+.form-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 2fr;
+    gap: 15px 20px;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form-container label {
+    font-weight: bold;
+}
+
+.form-container input, .form-container select {
+    width: 90%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.space {
+    width: 80%;
+    height: 5px;
+    background-color: #ece000;
+    margin: auto;
+}
+
+#Required-Subjects {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.center-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Division-input-field, .Subjects-input-field {
+    width: 80%;
+    max-width: 1000px;
+    height: 40px;
+    font-size: 16px;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 10px auto;
+    display: block;
+}
+
+.subject-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subject-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    margin-bottom: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.subject-list button {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+.subject-list button:hover {
+    background-color: #c0392b;
+}
+
+#apply_btn {
+    display: block;
+    width: 10%;
+    margin: 10px auto;
+    padding: 15px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+#apply_btn:hover {
+    background-color: #0056b3;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.form-box {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+
+.icon-container img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+
+input[type="email"] {
+    width: 90%;
+    padding: 8px;
+    margin: 20px 0 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: rgb(228, 227, 227);
+    font-size: 14px;
+}
+
+
+#fg_pw_continue_btn , #fg_pw_back_btn {
+    display: block;
+    width: 45%;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+#fg_pw_continue_btn:hover , #fg_pw_back_btn:hover {
+    background-color: #0056b3;
+}
+
+
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+

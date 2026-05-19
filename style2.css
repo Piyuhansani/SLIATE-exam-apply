@@ -1,0 +1,149 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color:#ece000;
+    
+}
+
+
+
+
+.adminOption-container {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #f0ff7f;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+.lecturerOption-container {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #f0ff7f;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 15px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #0056b3;
+}
+.icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:#ece000;
+}
+.settimetable-container {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #f0ff7f;
+    border: 2px solid #ddd;
+    border-radius: 10px
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.form-group {
+    margin: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+label {
+    font-size: 16px;
+    width: 30%;
+}
+input, select, button {
+    width: 65%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+input[type="date"], input[type="time"] {
+    text-align: center;
+}
+button {
+    width: auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+.timetable {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.timetable h2 {
+    text-align: center;
+}
+.timetable-entry {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
+
+.login-container,.admin_login_container{
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #f0ff7f;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}

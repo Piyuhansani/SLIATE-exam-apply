@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #ece000;
+}
+
+.container {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #f0ff7f;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+h1, h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.summary-container, .chart-container {
+    margin-bottom: 30px;
+}
+
+#pieChart, #barChart {
+    max-width: 600px;
+    margin: 0 auto;
+}
