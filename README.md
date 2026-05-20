@@ -7,14 +7,6 @@
 ![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-purple)
 
 
-# 🎓 Online Exam Apply & Management System
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Piyuhansani/SLIATE-exam-apply?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Piyuhansani/SLIATE-exam-apply?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Piyuhansani/SLIATE-exam-apply?style=social)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-purple)
-
 ---
 
 ## 📌 Overview
